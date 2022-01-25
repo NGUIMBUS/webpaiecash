@@ -1,0 +1,26 @@
+  
+@media (min-width: 0px) {
+    .large {
+      width: calc(90%);
+      height: 220px;
+      margin: auto;
+      margin-top: 15px;
+    }
+  }
+  @media (min-width: 576px) {
+    .large {
+      width: calc(60%);
+      height: 240px;
+      margin: auto;
+      margin-top: 15px;
+    }
+  }
+  @media (min-width: 768px) {
+    .large {
+        width: calc(60%);
+        height: 140px;
+        margin-top: 15px;
+        margin: auto;
+        margin-left: 1%;
+    }
+  }

@@ -1,0 +1,87 @@
+@media (min-width: 0rem) {
+  .sizeT{
+    font-size: calc(310%);
+  }
+}
+@media (min-width: 768px) {
+  .sizeT{
+    font-size: calc(210%);
+  }
+}
+.sze{
+  font-size: calc(90%);
+}
+.hgt{
+  height: 33rem;
+}
+
+.hauteur{
+  height: 23rem;
+}
+
+.imgHght{
+  height: 22rem;
+}
+
+.wdth{
+  width: 20rem;
+}
+
+.txtSize{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 11px;
+}
+
+.txtSize2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+}
+.font-txt{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bckGrd{
+  background-color: #167f52;
+}
+.bckGrd2{
+  background-color: #00bf6d;
+}
+
+.anim{
+  transition: linear ease-in-out .3s;
+}
+.imgH{
+  height: 20rem;
+}
+
+
+@media (min-width: 0rem) {
+  .size{
+    font-size: calc(100%);
+  }
+  .larg {
+    width: calc(46%);
+    margin: auto;
+    margin-left: calc(2.5%);
+  }
+}
+@media (min-width: 576px) {
+  .larg {
+    width: calc(46%);
+    margin: auto;
+    margin-left: calc(2.5%);
+  }
+}
+@media (min-width: 768px) {
+  .larg {
+    width: calc(48%);
+    margin: auto;
+    margin-left: 0.5%;
+  }
+}
+@media (min-width: 992px) {
+  .larg {
+    width: calc(24%);
+    margin-left: calc(0.25%);
+  }
+}
